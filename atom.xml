@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>달팽이기관차의 블로그입니다.</description>
+    <description>테크 블로그입니다.</description>
     <link>
-    http://localhost:4000</link>
+    https://houngkyung-kim.github.io</link>
     
       
       <item>
@@ -13,10 +13,10 @@
           <description>&lt;p&gt;이 글은 web basic 입니다. :)&lt;/p&gt;
 </description>
         
-        <pubDate>Tue, 12 Jan 2021 22:43:00 +0900</pubDate>
+        <pubDate>Tue, 12 Jan 2021 13:43:00 +0000</pubDate>
         <link>
-        http://localhost:4000/web-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/web-basic</guid>
+        https://houngkyung-kim.github.io/web-basic</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/web-basic</guid>
       </item>
       
     
@@ -27,10 +27,10 @@
           <description>&lt;p&gt;이 글은 jekyll basic 입니다. :)&lt;/p&gt;
 </description>
         
-        <pubDate>Tue, 12 Jan 2021 22:41:00 +0900</pubDate>
+        <pubDate>Tue, 12 Jan 2021 13:41:00 +0000</pubDate>
         <link>
-        http://localhost:4000/jekyll-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
+        https://houngkyung-kim.github.io/jekyll-basic</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/jekyll-basic</guid>
       </item>
       
     
@@ -42,10 +42,10 @@
 
 </description>
         
-        <pubDate>Tue, 12 Jan 2021 22:40:00 +0900</pubDate>
+        <pubDate>Tue, 12 Jan 2021 13:40:00 +0000</pubDate>
         <link>
-        http://localhost:4000/python-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
+        https://houngkyung-kim.github.io/python-basic</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/python-basic</guid>
       </item>
       
     
@@ -57,10 +57,10 @@
 
 </description>
         
-        <pubDate>Sun, 10 Jan 2021 22:40:00 +0900</pubDate>
+        <pubDate>Sun, 10 Jan 2021 13:40:00 +0000</pubDate>
         <link>
-        http://localhost:4000/python-intro</link>
-        <guid isPermaLink="true">http://localhost:4000/python-intro</guid>
+        https://houngkyung-kim.github.io/python-intro</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/python-intro</guid>
       </item>
       
     
@@ -72,10 +72,10 @@
 
 </description>
         
-        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
         <link>
-        http://localhost:4000/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
+        https://houngkyung-kim.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/gettysburg-address</guid>
       </item>
       
     

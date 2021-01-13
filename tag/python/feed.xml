@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/python/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-01-13T21:35:38+09:00</updated>
-  <id>http://localhost:4000/tag/python/feed.xml</id>
+  <link href="https://houngkyung-kim.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://houngkyung-kim.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-13T14:26:15+00:00</updated>
+  <id>https://houngkyung-kim.github.io/tag/python/feed.xml</id>
 
   
   
@@ -16,7 +16,7 @@
   
 
   
-    <subtitle>달팽이기관차의 블로그입니다.</subtitle>
+    <subtitle>테크 블로그입니다.</subtitle>
   
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Python 강좌(1) - Python 기본</title>
-      <link href="http://localhost:4000/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
-      <published>2021-01-12T22:40:00+09:00</published>
-      <updated>2021-01-12T22:40:00+09:00</updated>
-      <id>http://localhost:4000/python-basic</id>
-      <content type="html" xml:base="http://localhost:4000/python-basic">&lt;p&gt;이 글은 python basic 입니다. :)&lt;/p&gt;
+      <link href="https://houngkyung-kim.github.io/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
+      <published>2021-01-12T13:40:00+00:00</published>
+      <updated>2021-01-12T13:40:00+00:00</updated>
+      <id>https://houngkyung-kim.github.io/python-basic</id>
+      <content type="html" xml:base="https://houngkyung-kim.github.io/python-basic">&lt;p&gt;이 글은 python basic 입니다. :)&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
@@ -73,11 +73,11 @@
   
     <entry>
       <title type="html">Python 강좌(0) - Python 인트로</title>
-      <link href="http://localhost:4000/python-intro" rel="alternate" type="text/html" title="Python 강좌(0) - Python 인트로" />
-      <published>2021-01-10T22:40:00+09:00</published>
-      <updated>2021-01-10T22:40:00+09:00</updated>
-      <id>http://localhost:4000/python-intro</id>
-      <content type="html" xml:base="http://localhost:4000/python-intro">&lt;p&gt;이 글은 python intro 입니다. :)&lt;/p&gt;
+      <link href="https://houngkyung-kim.github.io/python-intro" rel="alternate" type="text/html" title="Python 강좌(0) - Python 인트로" />
+      <published>2021-01-10T13:40:00+00:00</published>
+      <updated>2021-01-10T13:40:00+00:00</updated>
+      <id>https://houngkyung-kim.github.io/python-intro</id>
+      <content type="html" xml:base="https://houngkyung-kim.github.io/python-intro">&lt;p&gt;이 글은 python intro 입니다. :)&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
