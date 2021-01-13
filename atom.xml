@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>달팽이기관차의 블로그입니다.</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>web 강좌(1) - web 기본</title>
+        
+          <description>&lt;p&gt;이 글은 web basic 입니다. :)&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 12 Jan 2021 22:43:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/web-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/web-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Jekyll 강좌(1) - Jekyll 기본</title>
+        
+          <description>&lt;p&gt;이 글은 jekyll basic 입니다. :)&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 12 Jan 2021 22:41:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(1) - Python 기본</title>
+        
+          <description>&lt;p&gt;이 글은 python basic 입니다. :)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 12 Jan 2021 22:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(0) - Python 인트로</title>
+        
+          <description>&lt;p&gt;이 글은 python intro 입니다. :)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 10 Jan 2021 22:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-intro</link>
+        <guid isPermaLink="true">http://localhost:4000/python-intro</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/gettysburg-address</link>
+        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
