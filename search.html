@@ -130,9 +130,9 @@ into the {body} of the default.hbs template -->
             <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
-    <li class="nav-jekyll" role="menuitem"><a href="/tag/web/">Web</a></li>
+    <li class="nav-web" role="menuitem"><a href="/tag/web/">Web</a></li>
+    <li class="nav-database" role="menuitem"><a href="/tag/database/">Database</a></li>
     <li class="nav-python" role="menuitem"><a href="/tag/python/">Python</a></li>
-    <li class="nav-jekyll" role="menuitem"><a href="/tag/jekyll/">Jekyll</a></li>
     <li class="nav-archive" role="menuitem">
         <a href="/archive.html">All Posts</a>
     </li>
@@ -188,21 +188,21 @@ into the {body} of the default.hbs template -->
 <script>
   window.store = {
   
+  "database-basic": {
+      "title": "Database - Mongoose 기본",
+          "author": "houngkyung-kim",
+          "category": "",
+          "content": "몽구스 MongooseMongoose는 node.js 환경에서 Schema를 활용해 쉽고 간편하게 몽고DB 데이터를 객체로 모델링하는 솔루션입니다. 원래 몽고DB는 noSQL이기 때문에 데이터의 유효성 검사나 캐스팅 및 비즈니스 로직을 작성하는 것이 어려웠습니다. 하지만 Schema를 활용하기 때문에 몽구스는 몽고DB를 더욱 편리하게 쓸 수 있게 하는 도와줍니다.스키마 Schema스키마는메소드  조회: find, findOne, findById  삭제 및 수정: findOneAndRemove, findOneAndUpdate, findByIdAndRemove, findByIdAndUpdatepopulateObjectId를 객체로 바꿔주는 기능Promise  async / await  save쿼리 빌더  where  equals, ne  exists  gt, lt, gte, lte  in, nin, all  and, or, nor  size, mode, slice  within, box, circle, geometry, near, intersects, maxDistance  distinct  regex  select  skip, limit  sort  find, findOne, findOneAndRemove, findOneAndUpdate참고Mongoose 공식 웹사이트",
+      "url": "/database-basic"
+  }
+  ,
+  
   "web-basic": {
       "title": "web 강좌(1) - web 기본",
           "author": "houngkyung-kim",
           "category": "",
           "content": "이 글은 web basic 입니다. :)",
       "url": "/web-basic"
-  }
-  ,
-  
-  "jekyll-basic": {
-      "title": "Jekyll 강좌(1) - Jekyll 기본",
-          "author": "houngkyung-kim",
-          "category": "",
-          "content": "이 글은 jekyll basic 입니다. :)",
-      "url": "/jekyll-basic"
   }
   ,
   
@@ -225,10 +225,10 @@ into the {body} of the default.hbs template -->
   ,
   
   "gettysburg-address": {
-      "title": "게티스버그 연설",
+      "title": "기술 블로그",
           "author": "abraham",
           "category": "",
-          "content": "Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.",
+          "content": "빠리의택시운전사https://geonlee.tistory.com/229",
       "url": "/gettysburg-address"
   }
   
@@ -265,7 +265,7 @@ $(function() {
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="https://houngkyung-kim.github.io/">Snailtrain's Blog</a> &copy; 2021</section>
-                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                <!-- <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
                 <nav class="site-footer-nav">
@@ -273,7 +273,7 @@ $(function() {
                     
                     
                     <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
-                </nav>
+                </nav> -->
             </div>
         </footer>
 
@@ -314,12 +314,12 @@ $(function() {
 
 
     <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script> -->
+    <!-- <script>$(document).ready(function() {
       $('pre code').each(function(i, block) {
         hljs.highlightBlock(block);
       });
-    });</script>
+    });</script> -->
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -328,7 +328,7 @@ $(function() {
         crossorigin="anonymous">
     </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script> -->
 
 
     <!-- Paginator increased to "infinit" in _config.yml -->

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://houngkyung-kim.github.io/author/houngkyung-kim/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://houngkyung-kim.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-13T15:21:05+00:00</updated>
+  <updated>2021-01-17T08:18:46+00:00</updated>
   <id>https://houngkyung-kim.github.io/author/houngkyung-kim/feed.xml</id>
 
   
@@ -30,6 +30,90 @@
   
   
 
+  
+    <entry>
+      <title type="html">Database - Mongoose 기본</title>
+      <link href="https://houngkyung-kim.github.io/database-basic" rel="alternate" type="text/html" title="Database - Mongoose 기본" />
+      <published>2021-01-14T07:00:00+00:00</published>
+      <updated>2021-01-14T07:00:00+00:00</updated>
+      <id>https://houngkyung-kim.github.io/database-basic</id>
+      <content type="html" xml:base="https://houngkyung-kim.github.io/database-basic">&lt;h1 id=&quot;몽구스-mongoose&quot;&gt;몽구스 Mongoose&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Mongoose는 node.js 환경에서 Schema를 활용해 쉽고 간편하게 몽고DB 데이터를 객체로 모델링하는 솔루션입니다. 원래 몽고DB는 noSQL이기 때문에 데이터의 유효성 검사나 캐스팅 및 비즈니스 로직을 작성하는 것이 어려웠습니다. 하지만 Schema를 활용하기 때문에 몽구스는 몽고DB를 더욱 편리하게 쓸 수 있게 하는 도와줍니다.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;스키마-schema&quot;&gt;스키마 Schema&lt;/h3&gt;
+
+&lt;p&gt;스키마는&lt;/p&gt;
+
+&lt;h3 id=&quot;메소드&quot;&gt;메소드&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;조회: find, findOne, findById&lt;/li&gt;
+  &lt;li&gt;삭제 및 수정: findOneAndRemove, findOneAndUpdate, findByIdAndRemove, findByIdAndUpdate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;populate&quot;&gt;populate&lt;/h3&gt;
+
+&lt;p&gt;ObjectId를 객체로 바꿔주는 기능&lt;/p&gt;
+
+&lt;h3 id=&quot;promise&quot;&gt;Promise&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;async / await&lt;/li&gt;
+  &lt;li&gt;save&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;쿼리-빌더&quot;&gt;쿼리 빌더&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;where&lt;/li&gt;
+  &lt;li&gt;equals, ne&lt;/li&gt;
+  &lt;li&gt;exists&lt;/li&gt;
+  &lt;li&gt;gt, lt, gte, lte&lt;/li&gt;
+  &lt;li&gt;in, nin, all&lt;/li&gt;
+  &lt;li&gt;and, or, nor&lt;/li&gt;
+  &lt;li&gt;size, mode, slice&lt;/li&gt;
+  &lt;li&gt;within, box, circle, geometry, near, intersects, maxDistance&lt;/li&gt;
+  &lt;li&gt;distinct&lt;/li&gt;
+  &lt;li&gt;regex&lt;/li&gt;
+  &lt;li&gt;select&lt;/li&gt;
+  &lt;li&gt;skip, limit&lt;/li&gt;
+  &lt;li&gt;sort&lt;/li&gt;
+  &lt;li&gt;find, findOne, findOneAndRemove, findOneAndUpdate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;참고&quot;&gt;참고&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mongoosejs.com/&quot;&gt;Mongoose 공식 웹사이트&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>houngkyung-kim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="database" />
+      
+
+      
+        <summary type="html">몽구스 Mongoose Mongoose는 node.js 환경에서 Schema를 활용해 쉽고 간편하게 몽고DB 데이터를 객체로 모델링하는 솔루션입니다. 원래 몽고DB는 noSQL이기 때문에 데이터의 유효성 검사나 캐스팅 및 비즈니스 로직을 작성하는 것이 어려웠습니다. 하지만 Schema를 활용하기 때문에 몽구스는 몽고DB를 더욱 편리하게 쓸 수 있게 하는 도와줍니다.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">web 강좌(1) - web 기본</title>
@@ -59,40 +143,6 @@
 
       
         <summary type="html">이 글은 web basic 입니다. :)</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Jekyll 강좌(1) - Jekyll 기본</title>
-      <link href="https://houngkyung-kim.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - Jekyll 기본" />
-      <published>2021-01-12T13:41:00+00:00</published>
-      <updated>2021-01-12T13:41:00+00:00</updated>
-      <id>https://houngkyung-kim.github.io/jekyll-basic</id>
-      <content type="html" xml:base="https://houngkyung-kim.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다. :)&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>houngkyung-kim</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="jekyll" />
-      
-
-      
-        <summary type="html">이 글은 jekyll basic 입니다. :)</summary>
       
 
       

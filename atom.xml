@@ -8,6 +8,24 @@
     
       
       <item>
+        <title>Database - Mongoose 기본</title>
+        
+          <description>&lt;h1 id=&quot;몽구스-mongoose&quot;&gt;몽구스 Mongoose&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+Mongoose는 node.js 환경에서 Schema를 활용해 쉽고 간편하게 몽고DB 데이터를 객체로 모델링하는 솔루션입니다. 원래 몽고DB는 noSQL이기 때문에 데이터의 유효성 검사나 캐스팅 및 비즈니스 로직을 작성하는 것이 어려웠습니다. 하지만 Schema를 활용하기 때문에 몽구스는 몽고DB를 더욱 편리하게 쓸 수 있게 하는 도와줍니다.
+&lt;br /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 14 Jan 2021 07:00:00 +0000</pubDate>
+        <link>
+        https://houngkyung-kim.github.io/database-basic</link>
+        <guid isPermaLink="true">https://houngkyung-kim.github.io/database-basic</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>web 강좌(1) - web 기본</title>
         
           <description>&lt;p&gt;이 글은 web basic 입니다. :)&lt;/p&gt;
@@ -17,20 +35,6 @@
         <link>
         https://houngkyung-kim.github.io/web-basic</link>
         <guid isPermaLink="true">https://houngkyung-kim.github.io/web-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Jekyll 강좌(1) - Jekyll 기본</title>
-        
-          <description>&lt;p&gt;이 글은 jekyll basic 입니다. :)&lt;/p&gt;
-</description>
-        
-        <pubDate>Tue, 12 Jan 2021 13:41:00 +0000</pubDate>
-        <link>
-        https://houngkyung-kim.github.io/jekyll-basic</link>
-        <guid isPermaLink="true">https://houngkyung-kim.github.io/jekyll-basic</guid>
       </item>
       
     
@@ -66,13 +70,13 @@
     
       
       <item>
-        <title>게티스버그 연설</title>
+        <title>기술 블로그</title>
         
-          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+          <description>&lt;h1 id=&quot;빠리의택시운전사&quot;&gt;빠리의택시운전사&lt;/h1&gt;
 
 </description>
         
-        <pubDate>Thu, 19 Nov 1863 10:18:00 +0000</pubDate>
+        <pubDate>Wed, 01 Jan 2020 10:00:00 +0000</pubDate>
         <link>
         https://houngkyung-kim.github.io/gettysburg-address</link>
         <guid isPermaLink="true">https://houngkyung-kim.github.io/gettysburg-address</guid>

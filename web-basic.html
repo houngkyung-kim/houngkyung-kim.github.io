@@ -139,9 +139,9 @@ into the {body} of the default.hbs template -->
             <ul class="nav" role="menu">
     <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
     <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
-    <li class="nav-jekyll" role="menuitem"><a href="/tag/web/">Web</a></li>
+    <li class="nav-web" role="menuitem"><a href="/tag/web/">Web</a></li>
+    <li class="nav-database" role="menuitem"><a href="/tag/database/">Database</a></li>
     <li class="nav-python" role="menuitem"><a href="/tag/python/">Python</a></li>
-    <li class="nav-jekyll" role="menuitem"><a href="/tag/jekyll/">Jekyll</a></li>
     <li class="nav-archive" role="menuitem">
         <a href="/archive.html">All Posts</a>
     </li>
@@ -296,6 +296,51 @@ into the {body} of the default.hbs template -->
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
+                
+
+    <article class="post-card post-template no-image">
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/database-basic">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Database</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Database - Mongoose 기본</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p></p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/built/images/author-profile.jpg" alt="houngkyung-kim" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/houngkyung-kim/">houngkyung-kim</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
 
             <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
             
@@ -304,17 +349,17 @@ into the {body} of the default.hbs template -->
     <article class="post-card post-template no-image">
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/jekyll-basic">
+            <a class="post-card-content-link" href="/python-basic">
                 <header class="post-card-header">
                     
                         
                             
-                                <span class="post-card-tags">Jekyll</span>
+                                <span class="post-card-tags">Python</span>
                             
                         
                     
 
-                    <h2 class="post-card-title">Jekyll 강좌(1) - Jekyll 기본</h2>
+                    <h2 class="post-card-title">Python 강좌(1) - Python 기본</h2>
                 </header>
                 <section class="post-card-excerpt">
                     
@@ -395,7 +440,7 @@ into the {body} of the default.hbs template -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="https://houngkyung-kim.github.io/">Snailtrain's Blog</a> &copy; 2021</section>
-                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                <!-- <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
                 <nav class="site-footer-nav">
@@ -403,7 +448,7 @@ into the {body} of the default.hbs template -->
                     
                     
                     <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
-                </nav>
+                </nav> -->
             </div>
         </footer>
 
@@ -444,12 +489,12 @@ into the {body} of the default.hbs template -->
 
 
     <!-- highlight.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script> -->
+    <!-- <script>$(document).ready(function() {
       $('pre code').each(function(i, block) {
         hljs.highlightBlock(block);
       });
-    });</script>
+    });</script> -->
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
@@ -458,7 +503,7 @@ into the {body} of the default.hbs template -->
         crossorigin="anonymous">
     </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script> -->
 
 
     <!-- Paginator increased to "infinit" in _config.yml -->
