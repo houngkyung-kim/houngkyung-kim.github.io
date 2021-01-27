@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://houngkyung-kim.github.io/tag/python/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://houngkyung-kim.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-17T08:18:46+00:00</updated>
+  <updated>2021-01-27T04:05:35+00:00</updated>
   <id>https://houngkyung-kim.github.io/tag/python/feed.xml</id>
 
   
@@ -30,6 +30,65 @@
   
   
 
+  
+    <entry>
+      <title type="html">인생이 윤택해 지는 유용한 [ 크롬 브라우저 단축키 ] 모음</title>
+      <link href="https://houngkyung-kim.github.io/productivity-chrome" rel="alternate" type="text/html" title="인생이 윤택해 지는 유용한 [ 크롬 브라우저 단축키 ] 모음" />
+      <published>2021-01-26T13:40:00+00:00</published>
+      <updated>2021-01-26T13:40:00+00:00</updated>
+      <id>https://houngkyung-kim.github.io/productivity-chrome</id>
+      <content type="html" xml:base="https://houngkyung-kim.github.io/productivity-chrome">&lt;p&gt;사실 나는 얼마 전까지 단축키에 대해 별로 신경쓰지 않았다.&lt;/p&gt;
+
+&lt;p&gt;“마우스가 있는데 굳이 왜 단축키를 써야할까?”&lt;/p&gt;
+
+&lt;p&gt;원하는 버튼을 클릭하면 되는 매우 직관적인 방법을 두고 불편하게(?) 단축키를 외워야할 필요성을 느끼지 못했다.
+하지만 이것은 정말 엄청난 착각이었다.&lt;/p&gt;
+
+&lt;p&gt;우연한 기회로 gmail 단축키를 사용하게 되면서 엄청난 자유로움과 해방감을 경험했다. 이를 기회로 내가 자주 쓰는 프로그램들은 무조건 단축키를 외워야겠다고 생각하게 됐다.&lt;/p&gt;
+
+&lt;p&gt;이렇게 내가 단축키 모음 글을 쓰는 이유도 나처럼 있다는 것은 알았지만 느껴보지 못한 사람들이 단축키를 쓰게 되면서 신세계를 경험하기 바라기 때문이다.&lt;/p&gt;
+
+&lt;p&gt;이제 사설은 그만하고 유용한 [ 크롬 브라우저 단축키 ] 를 살펴보자.&lt;/p&gt;
+
+&lt;p&gt;주소창 커서 이동 : cmd + l
+새 탭 열기 : cmd + t
+현재 탭 끄기 : cmd + w
+탭 이동하기 : cmd + 숫자
+이전 페이지 : cmd + [
+다음 페이지 : cmd + ]
+시크릿 탭 열기 : shift _
+개발자 모드 열기 : shift + option + i&lt;/p&gt;
+
+&lt;p&gt;현재 창 닫기: cmd + shift + w
+창 최소화: cmd + m
+크롬 숨기기 : cmd + h
+크롬 끄기: cmd + q&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>houngkyung-kim</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">사실 나는 얼마 전까지 단축키에 대해 별로 신경쓰지 않았다.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Python 강좌(1) - Python 기본</title>

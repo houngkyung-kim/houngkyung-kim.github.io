@@ -4,6 +4,38 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://houngkyung-kim.github.io/productivity-chrome.html</loc>
+        
+        <lastmod>2021-01-26T13:40:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://houngkyung-kim.github.io/web-javascript.html</loc>
+        
+        <lastmod>2021-01-17T03:33:00+00:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>https://houngkyung-kim.github.io/database-basic.html</loc>
         
         <lastmod>2021-01-14T07:00:00+00:00</lastmod>
@@ -68,7 +100,7 @@
     </url>
     
     <url>
-        <loc>https://houngkyung-kim.github.io/gettysburg-address.html</loc>
+        <loc>https://houngkyung-kim.github.io/%EC%B6%94%EC%B2%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EB%B8%94%EB%A1%9C%EA%B7%B8.html</loc>
         
         <lastmod>2020-01-01T10:00:00+00:00</lastmod>
         
